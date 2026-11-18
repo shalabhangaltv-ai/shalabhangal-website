@@ -31,7 +31,7 @@ import{a as e,o as t,r as n,t as r}from"./index-DN-kZvHw.js";var i=r(),a=[{numbe
 (0,i.jsx)(`p`,{className:`text-sm leading-6 text-[#45545a]`,children:e.qualification})
 ]})
 ]})
-]},e.name))}
+]},e.name))})
 ]}),
 (0,i.jsxs)(`div`,{className:`mt-16 border-t border-[#006D77]/15 pt-10 text-center`,children:[
 (0,i.jsx)(`h3`,{className:`text-2xl font-bold text-[#006D77]`,children:`Different disciplines. A shared commitment to every child.`}),
