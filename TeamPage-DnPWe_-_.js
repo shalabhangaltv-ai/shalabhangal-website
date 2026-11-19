@@ -24,8 +24,8 @@ import{a as e,o as t,r as n,t as r}from"./index-DN-kZvHw.js";var i=r(),a=[{numbe
 ].map(e=>(0,i.jsxs)(`article`,{className:`overflow-hidden rounded-2xl border border-[#006D77]/15 bg-white shadow-sm transition duration-300 hover:-translate-y-1 hover:shadow-lg`,children:[
 (0,i.jsx)(`div`,{className:`px-4 py-3 text-center text-xs font-bold uppercase tracking-[0.08em] text-white`,style:{backgroundColor:e.color},children:e.role}),
 (0,i.jsxs)(`div`,{className:`flex gap-4 p-4 sm:p-5`,children:[
-(0,i.jsx)(`img`,{src:`/images/team/${e.image}`,alt:e.name,loading:`lazy`,className:`h-36 w-28 shrink-0 rounded-lg bg-[#f1f1f1] object-cover object-top sm:h-40 sm:w-32`}),
-(0,i.jsxs)(`div`,{className:`min-w-0 pt-1`,children:[
+(0,i.jsx)(`img`,{src:`/images/team/${e.image}`,alt:e.name,loading:`lazy`,style:{width:`112px`,height:`144px`,minWidth:`112px`,flexShrink:0,objectFit:`cover`,objectPosition:`top`,borderRadius:`0.5rem`,backgroundColor:`#f1f1f1`}}),
+(0,i.jsxs)(`div`,{className:`pt-1`,style:{minWidth:0,flex:1},children:[
 (0,i.jsx)(`h3`,{className:`text-base font-bold leading-6 text-[#0756A5] sm:text-lg`,children:e.name}),
 (0,i.jsx)(`div`,{className:`my-2 h-0.5 w-8 rounded bg-[#F4C95D]`}),
 (0,i.jsx)(`p`,{className:`text-sm leading-6 text-[#45545a]`,children:e.qualification})
