@@ -32,7 +32,7 @@ import{a as e,o as t,r as n,t as r}from"./index-DN-kZvHw.js";var i=r(),a=[{numbe
 ]})
 ]})
 ]},e.name))})
-]}),
+,
 (0,i.jsxs)(`div`,{className:`mt-16 border-t border-[#006D77]/15 pt-10 text-center`,children:[
 (0,i.jsx)(`h3`,{className:`text-2xl font-bold text-[#006D77]`,children:`Different disciplines. A shared commitment to every child.`}),
 (0,i.jsx)(`p`,{className:`mx-auto mt-3 max-w-2xl leading-7 text-[#59635e]`,children:`At Shalabhangal, our work is guided by collaboration, respect for each child's individuality and partnership with families.`})
